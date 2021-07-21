@@ -8,3 +8,5 @@ class App < Sinatra::Base
 		erb :info
 	  end 
 end
+
+#this is a comment
